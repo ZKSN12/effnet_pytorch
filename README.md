@@ -1,1 +1,1 @@
-# effnet_pytorch
+# efficientnet_pytorch
